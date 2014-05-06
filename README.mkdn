@@ -1,0 +1,16 @@
+SXDSemc ROMs
+===========
+
+Getting Started
+---------------
+
+To get started with SXDSemc ROMs, you will need to get
+familiar with [Repo](https://source.android.com/source/using-repo.html) and [Version Control with Git](https://source.android.com/source/version-control.html).
+
+To initialize your local repository using the SXDSemcKat trees, use a command like this:
+
+    repo init -u https://github.com/SXDSemcROMs/android.git -b kk44
+
+Then to sync up:
+
+    repo sync
